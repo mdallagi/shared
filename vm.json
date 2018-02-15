@@ -22,9 +22,6 @@
         },
         "interfaceRefLan": {
             "type": "string"
-        },
-        "devFwBlobUrlPrefix": {
-            "type": "string"
         }
     },
     "variables": {
